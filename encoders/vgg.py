@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from copy import deepcopy
-from conv_blocks import ConvNormAct, ConvAct
+from blocks.convs import ConvNormAct, ConvAct
 from functools import partial
 
 
