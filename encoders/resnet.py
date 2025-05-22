@@ -1,7 +1,6 @@
 """
 see paper: https://arxiv.org/pdf/1512.03385v1
-see codes:
-https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py
+see codes: https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py
 """
 
 import torch

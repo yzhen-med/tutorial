@@ -1,5 +1,5 @@
 """ VGG: N * (Conv => ReLU) => MaxPool
-see paper: 
+see paper: https://arxiv.org/pdf/1409.1556v6
 see codes: https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg19.ipynb """
 
 import torch.nn as nn

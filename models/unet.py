@@ -1,6 +1,6 @@
 """
-分割模型框架
-UNet
+see paper: https://arxiv.org/pdf/1505.04597v1
+see codes: https://github.com/milesial/Pytorch-UNet/blob/master/unet/unet_model.py
 """
 
 import torch
